@@ -1,6 +1,6 @@
 {
   "name": "meta-whatsapp-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "��#\u0000 \u0000w\u0000h\u0000a\u0000t\u0000s\u0000a\u0000p\u0000p\u0000-\u0000c\u0000l\u0000o\u0000u\u0000d\u0000-\u0000a\u0000p\u0000i\u0000\r\u0000 \u0000",
   "main": "lib/index.js",
   "types": "lib",
